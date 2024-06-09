@@ -13,5 +13,5 @@ spec:
         app: website
     spec:
       containers:
-        - image: nghiadaulau/crawler-website
-          name: website
+      - image: 033254313603.dkr.ecr.ap-southeast-1.amazonaws.com/crawler-website
+        name: website
